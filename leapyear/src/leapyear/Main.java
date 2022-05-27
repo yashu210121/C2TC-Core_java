@@ -4,8 +4,8 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int year=1900;
-		if (year%4==0)
+		int year=2020;
+		if (year %4 ==0)
 		{
 			if(year %100==0)
 			{
